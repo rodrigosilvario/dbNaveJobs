@@ -1,21 +1,18 @@
 {
     "users": [
         {
-            "id": 1,
           "nome": "Rodrigo Barbosa da Silva",
           "vaga": "Desenvolvedor Front-End",
           "dataNascimento": "05/02/1990",
           "email": "rodrigo.silva.rio@gmail.com"
         },
         {
-            "id": 2,
             "nome": "Thomás Knust Alves",
             "vaga": "Desenvolvedor Back-End",
             "dataNascimento": "31/01/1990",
             "email": "toknust@gmail.com"
         },
         {
-            "id": 3,
             "nome": "Thassae Santos",
             "vaga": "Desenvolvedor Full-Stack",
             "dataNascimento": "15/05/1980",
